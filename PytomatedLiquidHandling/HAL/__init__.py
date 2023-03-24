@@ -1,1 +1,0 @@
-from .ClosedContainer import ClosedContainerLoader
